@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "20421609")
 
 API_HASH = os.environ.get("API_HASH", "17187c5466fb7044793bfa8bcaa9ec68")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6010521734:AAEqZMFmhrlNOh79QTfQsZ_ihaJiJCZsWmQ") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "KALPATARU_MOVIES") 
 
