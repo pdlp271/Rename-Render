@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "20421609")
 
 API_HASH = os.environ.get("API_HASH", "17187c5466fb7044793bfa8bcaa9ec68")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6010521734:AAEqZMFmhrlNOh79QTfQsZ_ihaJiJCZsWmQ") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "KALPATARU_MOVIES") 
 
@@ -19,9 +19,9 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "KALPATARU_MOVIES")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "mongodb+srv://hppavan271:hppavan271@cluster0.lubxqao.mongodb.net/?retryWrites=true&w=majority")     
+DB_NAME = os.environ.get("DB_NAME", "mongodb+srv://Hanuman:hanuman@cluster0.l5toshc.mongodb.net/?retryWrites=true&w=majority")     
 
-DB_URL = os.environ.get("DB_URL", "hppavan271")
+DB_URL = os.environ.get("DB_URL", "Hanuman")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
