@@ -19,9 +19,9 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "KALPATARU_MOVIES")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "mongodb+srv://Hanuman:hanuman@cluster0.l5toshc.mongodb.net/?retryWrites=true&w=majority")     
+DB_NAME = os.environ.get("DB_NAME", "mongodb+srv://Prajwalraj:prajwalraj@cluster0.hhn6zsc.mongodb.net/?retryWrites=true&w=majority")     
 
-DB_URL = os.environ.get("DB_URL", "Hanuman")
+DB_URL = os.environ.get("DB_URL", "Prajwalraj")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
